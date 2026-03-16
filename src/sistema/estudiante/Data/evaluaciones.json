@@ -1,0 +1,10 @@
+{"idEvaluacion":"EVA-01", "idMateria":"IA-101", "tipo":"Examen Parcial", "fecha":"01/04/2026", "puntos":"100", "status":"Pendiente"}
+{"idEvaluacion":"EVA-02", "idMateria":"PROG-202", "tipo":"Proyecto Final", "fecha":"15/05/2026", "puntos":"100", "status":"Pendiente"}
+{"idEvaluacion":"EVA-03", "idMateria":"BD-303", "tipo":"Quiz Semanal", "fecha":"10/03/2026", "puntos":"20", "status":"Pendiente"}
+{"idEvaluacion":"EVA-04", "idMateria":"RED-404", "tipo":"Laboratorio Práctico", "fecha":"20/03/2026", "puntos":"50", "status":"Pendiente"}
+{"idEvaluacion":"EVA-05", "idMateria":"SEC-505", "tipo":"Ensayo Criptográfico", "fecha":"05/04/2026", "puntos":"30", "status":"Pendiente"}
+{"idEvaluacion":"EVA-06", "idMateria":"AUT-606", "tipo":"Programación PLC", "fecha":"12/04/2026", "puntos":"100", "status":"Pendiente"}
+{"idEvaluacion":"EVA-07", "idMateria":"ROB-707", "tipo":"Armado de Prototipo", "fecha":"25/04/2026", "puntos":"80", "status":"Pendiente"}
+{"idEvaluacion":"EVA-08", "idMateria":"WEB-808", "tipo":"Despliegue en Nube", "fecha":"30/05/2026", "puntos":"100", "status":"Pendiente"}
+{"idEvaluacion":"EVA-09", "idMateria":"IOT-909", "tipo":"Conexión MQTT", "fecha":"18/04/2026", "puntos":"50", "status":"Pendiente"}
+{"idEvaluacion":"EVA-10", "idMateria":"SIS-110", "tipo":"Examen Final", "fecha":"10/06/2026", "puntos":"100", "status":"Pendiente"}

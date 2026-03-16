@@ -1,0 +1,30 @@
+{"nombre":"Juan", "apellido":"Pérez", "especialidad":"Inteligencia Artificial", "correo":"jperez@ejemplo.com", "telefono":"8112345678", "status":"Activo"}
+{"nombre":"Berenice", "apellido":"Gómez", "especialidad":"Desarrollo de Software", "correo":"bgomez@ejemplo.com", "telefono":"8113456789", "status":"Activo"}
+{"nombre":"Ricardo", "apellido":"Luna", "especialidad":"Redes y Conectividad", "correo":"rluna@ejemplo.com", "telefono":"8114567890", "status":"Activo"}
+{"nombre":"Sandra", "apellido":"Cavazos", "especialidad":"Ciberseguridad", "correo":"scavazos@ejemplo.com", "telefono":"8115678901", "status":"Activo"}
+{"nombre":"Roberto", "apellido":"Domínguez", "especialidad":"Automatización Industrial", "correo":"rdominguez@ejemplo.com", "telefono":"8116789012", "status":"Activo"}
+{"nombre":"Lucía", "apellido":"Villarreal", "especialidad":"Bases de Datos", "correo":"lvillarreal@ejemplo.com", "telefono":"8117890123", "status":"Activo"}
+{"nombre":"Héctor", "apellido":"Tamez", "especialidad":"Robótica", "correo":"htamez@ejemplo.com", "telefono":"8118901234", "status":"Activo"}
+{"nombre":"Mónica", "apellido":"Gallegos", "especialidad":"Programación Móvil", "correo":"mgallegos@ejemplo.com", "telefono":"8119012345", "status":"Activo"}
+{"nombre":"Osvaldo", "apellido":"Ruiz", "especialidad":"Sistemas Operativos", "correo":"oruiz@ejemplo.com", "telefono":"8120123456", "status":"Activo"}
+{"nombre":"Elena", "apellido":"Fuentes", "especialidad":"Ética Profesional", "correo":"efuentes@ejemplo.com", "telefono":"8121234567", "status":"Activo"}
+{"nombre":"Arturo", "apellido":"Salinas", "especialidad":"Arquitectura de Software", "correo":"asalinas@ejemplo.com", "telefono":"8122345678", "status":"Activo"}
+{"nombre":"Diana", "apellido":"Mendoza", "especialidad":"Ciencia de Datos", "correo":"dmendoza@ejemplo.com", "telefono":"8123456789", "status":"Activo"}
+{"nombre":"Fernando", "apellido":"Garza", "especialidad":"IoT (Internet de las cosas)", "correo":"fgarza@ejemplo.com", "telefono":"8124567890", "status":"Activo"}
+{"nombre":"Gabriela", "apellido":"Rocha", "especialidad":"Matemáticas Aplicadas", "correo":"grocha@ejemplo.com", "telefono":"8125678901", "status":"Activo"}
+{"nombre":"Jorge", "apellido":"Cantú", "especialidad":"Gestión de Proyectos", "correo":"jcantu@ejemplo.com", "telefono":"8126789012", "status":"Activo"}
+{"nombre":"Karla", "apellido":"Esparza", "especialidad":"Interacción Humano-Computadora", "correo":"kesparza@ejemplo.com", "telefono":"8127890123", "status":"Activo"}
+{"nombre":"Mario", "apellido":"Soto", "especialidad":"Computación en la Nube", "correo":"msoto@ejemplo.com", "telefono":"8128901234", "status":"Activo"}
+{"nombre":"Patricia", "apellido":"Guerra", "especialidad":"Ingeniería de Requerimientos", "correo":"pguerra@ejemplo.com", "telefono":"8129012345", "status":"Activo"}
+{"nombre":"Sergio", "apellido":"Valdés", "especialidad":"Análisis de Algoritmos", "correo":"svaldes@ejemplo.com", "telefono":"8130123456", "status":"Activo"}
+{"nombre":"Verónica", "apellido":"Longoria", "especialidad":"Auditoría de Sistemas", "correo":"vlongoria@ejemplo.com", "telefono":"8131234567", "status":"Activo"}
+{"nombre":"Alejandro", "apellido":"Muñiz", "especialidad":"Visión por Computadora", "correo":"amuniz@ejemplo.com", "telefono":"8132345678", "status":"Activo"}
+{"nombre":"Beatriz", "apellido":"Alanís", "especialidad":"Sistemas Embebidos", "correo":"balanis@ejemplo.com", "telefono":"8133456789", "status":"Activo"}
+{"nombre":"Daniel", "apellido":"Treviño", "especialidad":"Electrónica Digital", "correo":"dtrevino@ejemplo.com", "telefono":"8134567890", "status":"Activo"}
+{"nombre":"Estela", "apellido":"Benavides", "especialidad":"Simulación de Sistemas", "correo":"ebenavides@ejemplo.com", "telefono":"8135678901", "status":"Activo"}
+{"nombre":"Hugo", "apellido":"Lozano", "especialidad":"Compiladores", "correo":"hlozano@ejemplo.com", "telefono":"8136789012", "status":"Activo"}
+{"nombre":"Lorena", "apellido":"Martínez", "especialidad":"Programación Web", "correo":"lmartinez@ejemplo.com", "telefono":"8137890123", "status":"Activo"}
+{"nombre":"Mauricio", "apellido":"Padilla", "especialidad":"Teoría de Control", "correo":"mpadilla@ejemplo.com", "telefono":"8138901234", "status":"Activo"}
+{"nombre":"Nora", "apellido":"Quintanilla", "especialidad":"Investigación de Operaciones", "correo":"nquintanilla@ejemplo.com", "telefono":"8139012345", "status":"Activo"}
+{"nombre":"Raúl", "apellido":"Sánchez", "especialidad":"Seguridad en Redes", "correo":"rsanchez@ejemplo.com", "telefono":"8140123456", "status":"Activo"}
+{"nombre":"Silvia", "apellido":"Zavala", "especialidad":"Minería de Datos", "correo":"szavala@ejemplo.com", "telefono":"8141234567", "status":"Activo"}

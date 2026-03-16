@@ -1,0 +1,10 @@
+# CONFIGURACIÓN DE RUTAS OMNIX SYSTEM - ING. OSIRIS
+# Validar que se usa "/" o "\\" para evitar errores de escape 
+
+DATA_PATH=C:/Users/Ocyriz/Documents/ids/vere tareas/tetra 3ero/sistema.estudiante/src/sistema/estudiante/Data/
+LOGS_DIR=C:/Users/Ocyriz/Documents/ids/vere tareas/tetra 3ero/sistema.estudiante/src/sistema/estudiante/logs/
+LOGO_PATH=C:/Users/Ocyriz/Pictures/osiris_icono.png
+# CONFIGURACIÓN DE BASE DE DATOS
+DB_URL=jdbc:sqlserver://Ocyriz;databaseName=SistemaAcademico
+DB_USER=osiris
+DB_PASS=admin

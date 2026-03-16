@@ -1,0 +1,15 @@
+{"idMateria":"IA-101", "nombre":"Inteligencia Artificial I", "descripcion":"Fundamentos de redes neuronales", "creditos":"6", "status":"Activo"}
+{"idMateria":"PROG-202", "nombre":"Programación Java", "descripcion":"Programación orientada a objetos avanzada", "creditos":"8", "status":"Activo"}
+{"idMateria":"BD-303", "nombre":"Bases de Datos MySQL", "descripcion":"Diseño y optimización de consultas", "creditos":"7", "status":"Activo"}
+{"idMateria":"RED-404", "nombre":"Redes Locales", "descripcion":"Configuración de routers y switches", "creditos":"6", "status":"Activo"}
+{"idMateria":"SEC-505", "nombre":"Ciberseguridad", "descripcion":"Protección de perímetros y criptografía", "creditos":"7", "status":"Activo"}
+{"idMateria":"AUT-606", "nombre":"Automatización", "descripcion":"Control lógico programable (PLC)", "creditos":"8", "status":"Activo"}
+{"idMateria":"ROB-707", "nombre":"Robótica Básica", "descripcion":"Cinemática y sensores", "creditos":"6", "status":"Activo"}
+{"idMateria":"WEB-808", "nombre":"Desarrollo Web Fullstack", "descripcion":"HTML, CSS, JS y Backend", "creditos":"8", "status":"Activo"}
+{"idMateria":"IOT-909", "nombre":"Internet de las Cosas", "descripcion":"Conectividad de dispositivos", "creditos":"6", "status":"Activo"}
+{"idMateria":"SIS-110", "nombre":"Sistemas Operativos", "descripcion":"Gestión de memoria y procesos", "creditos":"7", "status":"Activo"}
+{"idMateria":"ETI-211", "nombre":"Ética en Ingeniería", "descripcion":"Dilemas éticos en tecnología", "creditos":"4", "status":"Activo"}
+{"idMateria":"MAT-312", "nombre":"Cálculo Integral", "descripcion":"Aplicaciones en ingeniería", "creditos":"8", "status":"Activo"}
+{"idMateria":"GES-413", "nombre":"Gestión de Proyectos", "descripcion":"Metodologías Ágiles (Scrum)", "creditos":"6", "status":"Activo"}
+{"idMateria":"ALG-514", "nombre":"Análisis de Algoritmos", "descripcion":"Complejidad y optimización", "creditos":"7", "status":"Activo"}
+{"idMateria":"AUD-615", "nombre":"Auditoría de Sistemas", "descripcion":"Estándares ISO y control", "creditos":"6", "status":"Activo"}

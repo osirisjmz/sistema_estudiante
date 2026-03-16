@@ -1,0 +1,179 @@
+1. Registros para Profesores (30)
+Formato: Nombre, Apellido, Especialidad, Correo, Teléfono
+
+Juan, Pérez, Inteligencia Artificial, jperez@ejemplo.com, 8112345678
+
+Berenice, Gómez, Desarrollo de Software, bgomez@ejemplo.com, 8113456789
+
+Ricardo, Luna, Redes y Conectividad, rluna@ejemplo.com, 8114567890
+
+Sandra, Cavazos, Ciberseguridad, scavazos@ejemplo.com, 8115678901
+
+Roberto, Domínguez, Automatización Industrial, rdominguez@ejemplo.com, 8116789012
+
+Lucía, Villarreal, Bases de Datos, lvillarreal@ejemplo.com, 8117890123
+
+Héctor, Tamez, Robótica, htamez@ejemplo.com, 8118901234
+
+Mónica, Gallegos, Programación Móvil, mgallegos@ejemplo.com, 8119012345
+
+Osvaldo, Ruiz, Sistemas Operativos, oruiz@ejemplo.com, 8120123456
+
+Elena, Fuentes, Ética Profesional, efuentes@ejemplo.com, 8121234567
+
+Arturo, Salinas, Arquitectura de Software, asalinas@ejemplo.com, 8122345678
+
+Diana, Mendoza, Ciencia de Datos, dmendoza@ejemplo.com, 8123456789
+
+Fernando, Garza, IoT (Internet de las cosas), fgarza@ejemplo.com, 8124567890
+
+Gabriela, Rocha, Matemáticas Aplicadas, grocha@ejemplo.com, 8125678901
+
+Jorge, Cantú, Gestión de Proyectos, jcantu@ejemplo.com, 8126789012
+
+Karla, Esparza, Interacción Humano-Computadora, kesparza@ejemplo.com, 8127890123
+
+Mario, Soto, Computación en la Nube, msoto@ejemplo.com, 8128901234
+
+Patricia, Guerra, Ingeniería de Requerimientos, pguerra@ejemplo.com, 8129012345
+
+Sergio, Valdés, Análisis de Algoritmos, svaldes@ejemplo.com, 8130123456
+
+Verónica, Longoria, Auditoría de Sistemas, vlongoria@ejemplo.com, 8131234567
+
+Alejandro, Muñiz, Visión por Computadora, amuniz@ejemplo.com, 8132345678
+
+Beatriz, Alanís, Sistemas Embebidos, balanis@ejemplo.com, 8133456789
+
+Daniel, Treviño, Electrónica Digital, dtrevino@ejemplo.com, 8134567890
+
+Estela, Benavides, Simulación de Sistemas, ebenavides@ejemplo.com, 8135678901
+
+Hugo, Lozano, Compiladores, hlozano@ejemplo.com, 8136789012
+
+Lorena, Martínez, Programación Web, lmartinez@ejemplo.com, 8137890123
+
+Mauricio, Padilla, Teoría de Control, mpadilla@ejemplo.com, 8138901234
+
+Nora, Quintanilla, Investigación de Operaciones, nquintanilla@ejemplo.com, 8139012345
+
+Raúl, Sánchez, Seguridad en Redes, rsanchez@ejemplo.com, 8140123456
+
+Silvia, Zavala, Minería de Datos, szavala@ejemplo.com, 8141234567
+
+2. Registros para Estudiantes (30)
+Nota: Sin matrícula, ya que mencionas que se generará automáticamente al llegar a ese módulo.
+
+Osiris, Jiménez, osiris.j@estudiante.edu, 8110001122
+
+Tania, Jiménez, tania.j@estudiante.edu, 8110001133
+
+Gabriela, Jiménez, gaby.j@estudiante.edu, 8110001144
+
+Mauricio, Jiménez, mau.j@estudiante.edu, 8110001155
+
+Andrés, Silva, asilva@estudiante.edu, 8110002211
+
+Claudia, Ramos, cramos@estudiante.edu, 8110002222
+
+Diego, Ortiz, dortiz@estudiante.edu, 8110002233
+
+Fernanda, López, flopez@estudiante.edu, 8110002244
+
+Gerardo, Cruz, gcruz@estudiante.edu, 8110002255
+
+Isabel, Flores, iflores@estudiante.edu, 8110002266
+
+Javier, Díaz, jdiaz@estudiante.edu, 8110002277
+
+Laura, Nava, lnava@estudiante.edu, 8110002288
+
+Marco, Rubio, mrubio@estudiante.edu, 8110002299
+
+Natalia, Serna, nserna@estudiante.edu, 8110003311
+
+Pablo, Mares, pmares@estudiante.edu, 8110003322
+
+Rocío, Vega, rvega@estudiante.edu, 8110003333
+
+Samuel, Kidd, skidd@estudiante.edu, 8110003344
+
+Teresa, Mier, tmier@estudiante.edu, 8110003355
+
+Ulises, Gaytán, ugaytan@estudiante.edu, 8110003366
+
+Vanessa, Kuri, vkuri@estudiante.edu, 8110003377
+
+Walter, White, wwhite@estudiante.edu, 8110004411
+
+Ximena, Prado, xprado@estudiante.edu, 8110004422
+
+Yadhira, Sosa, ysosa@estudiante.edu, 8110004433
+
+Zacarías, Leal, zleal@estudiante.edu, 8110004444
+
+Brenda, Jasso, bjasso@estudiante.edu, 8110004455
+
+César, Góngora, cgongora@estudiante.edu, 8110004466
+
+Estefanía, Solís, esolis@estudiante.edu, 8110004477
+
+Felipe, Carrillo, fcarrillo@estudiante.edu, 8110004488
+
+Gloria, Estefan, gestefan@estudiante.edu, 8110004499
+
+Humberto, Zurita, hzurita@estudiante.edu, 8110005511
+
+3. Materias (15)
+ID sugerido para el data.json
+
+IA-101, Inteligencia Artificial I, Fundamentos de redes neuronales, 6
+
+PROG-202, Programación Java, Programación orientada a objetos avanzada, 8
+
+BD-303, Bases de Datos MySQL, Diseño y optimización de consultas, 7
+
+RED-404, Redes Locales, Configuración de routers y switches, 6
+
+SEC-505, Ciberseguridad, Protección de perímetros y criptografía, 7
+
+AUT-606, Automatización, Control lógico programable (PLC), 8
+
+ROB-707, Robótica Básica, Cinemática y sensores, 6
+
+WEB-808, Desarrollo Web Fullstack, HTML, CSS, JS y Backend, 8
+
+IOT-909, Internet de las Cosas, Conectividad de dispositivos, 6
+
+SIS-110, Sistemas Operativos, Gestión de memoria y procesos, 7
+
+ETI-211, Ética en Ingeniería, Dilemas éticos en tecnología, 4
+
+MAT-312, Cálculo Integral, Aplicaciones en ingeniería, 8
+
+GES-413, Gestión de Proyectos, Metodologías Ágiles (Scrum), 6
+
+ALG-514, Análisis de Algoritmos, Complejidad y optimización, 7
+
+AUD-615, Auditoría de Sistemas, Estándares ISO y control, 6
+
+4. Evaluaciones (10 ejemplos)
+EVA-01, IA-101, Examen Parcial, 01/04/2026, 100
+
+EVA-02, PROG-202, Proyecto Final, 15/05/2026, 100
+
+EVA-03, BD-303, Quiz Semanal, 10/03/2026, 20
+
+EVA-04, RED-404, Laboratorio Práctico, 20/03/2026, 50
+
+EVA-05, SEC-505, Ensayo Criptográfico, 05/04/2026, 30
+
+EVA-06, AUT-606, Programación PLC, 12/04/2026, 100
+
+EVA-07, ROB-707, Armado de Prototipo, 25/04/2026, 80
+
+EVA-08, WEB-808, Despliegue en Nube, 30/05/2026, 100
+
+EVA-09, IOT-909, Conexión MQTT, 18/04/2026, 50
+
+EVA-10, SIS-110, Examen Final, 10/06/2026, 100

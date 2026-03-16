@@ -1,0 +1,320 @@
+2026-03-15 10:16:58 - [INGRESAR_PROFESOR] - Nombre: mario, Apellido: castro, Especialidad: fisica
+2026-03-15 10:21:03 - [INGRESAR_PROFESOR] - Profesor: Juan perez | Latencia: 2ms
+2026-03-15 10:30:12 - [INGRESAR_PROFESOR] - Profesor: berenice gomez | Latencia: 1ms
+2026-03-15 10:36:02 - [BUSQUEDA_PROFESOR] - Filtro: berenice | Latencia: 14ms
+2026-03-15 10:39:21 - [BUSQUEDA_PROFESOR] - Filtro:  | Latencia: 7ms
+2026-03-15 10:39:22 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: mario.castro@uniyo.com.mx | Latencia de UI: 6ms
+2026-03-15 10:39:23 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: jperes@ejemplo.com | Latencia de UI: 3ms
+2026-03-15 10:39:24 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: bgomez@ejemplo.com | Latencia de UI: 2ms
+2026-03-15 10:39:24 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: jperes@ejemplo.com | Latencia de UI: 1ms
+2026-03-15 10:39:25 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: mario.castro@uniyo.com.mx | Latencia de UI: 2ms
+2026-03-15 10:39:26 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: mario.castro@uniyo.com.mx | Latencia de UI: 1ms
+2026-03-15 10:39:27 - [SELECCION_TABLA_PROFESOR] - Usuario seleccionado: mario.castro@uniyo.com.mx | Latencia de UI: 1ms
+2026-03-15 10:39:50 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 1ms
+2026-03-15 10:39:53 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 3ms
+2026-03-15 10:39:53 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 2ms
+2026-03-15 10:39:54 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 2ms
+2026-03-15 10:39:55 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 3ms
+2026-03-15 10:39:59 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 2ms
+2026-03-15 10:40:02 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 5ms
+2026-03-15 10:40:02 - [BUSQUEDA_PROFESOR] - Filtro: mario | Latencia: 1ms
+2026-03-15 10:42:28 - [CARGA_TABLA] - Registros: 3 | Latencia: 4ms
+2026-03-15 10:42:31 - [CARGA_TABLA] - Registros: 3 | Latencia: 1ms
+2026-03-15 10:42:34 - [CARGA_TABLA] - Registros: 3 | Latencia: 1ms
+2026-03-15 10:42:34 - [CARGA_TABLA] - Registros: 3 | Latencia: 1ms
+2026-03-15 10:42:38 - [CARGA_TABLA] - Registros: 3 | Latencia: 2ms
+2026-03-15 10:42:50 - [CARGA_TABLA] - Registros: 1 | Latencia: 1ms
+2026-03-15 10:42:52 - [SELECCION_USUARIO] - ID: mario.castro@uniyo.com.mx | Latencia UI: 5ms
+2026-03-15 10:43:01 - [UPDATE_DATOS] - ID: mario.castro@uniyo.com.mx | Latencia: 1ms
+2026-03-15 10:43:02 - [CARGA_TABLA] - Registros: 3 | Latencia: 1ms
+2026-03-15 10:47:18 - [SELECCION_BAJA] - ID: mario.castro@uniyo.com.mx | Latencia: 1ms
+2026-03-15 10:47:29 - [BAJA_LOGICA_PROFESOR] - ID: mario.castro@uniyo.com.mx | Latencia: 2ms
+2026-03-15 10:50:29 - [SYSTEM_START] - Login screen online
+2026-03-15 10:50:58 - [LOGIN_SUCCESS] - Usuario: prueba | Latencia: 0ms
+2026-03-15 10:52:27 - [LOGIN_FAIL] - Intento: 
+2026-03-15 11:06:54 - [LOGIN_FAIL] - User: prueba
+2026-03-15 11:07:20 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-15 11:13:19 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-15 11:13:20 - [DASHBOARD_LOAD] - Dashboard listo en 218ms
+2026-03-15 11:13:32 - [LOGOUT] - Sesión terminada por usuario.
+2026-03-15 11:14:49 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-15 11:14:49 - [DASHBOARD_LOAD] - Dashboard listo en 137ms
+2026-03-15 11:14:55 - [LOGOUT] - Sesión terminada por usuario.
+2026-03-15 11:16:10 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-15 11:16:10 - [DASHBOARD_LOAD] - Dashboard listo en 192ms
+2026-03-15 11:16:58 - [LOGOUT] - Sesión terminada por usuario.
+2026-03-15 11:20:20 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-15 11:21:42 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:39:27 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:46:15 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:47:50 - [LOGIN_SUCCESS] - User: prueba | Latencia: 1ms
+2026-03-16 10:49:50 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:49:50 - [DASHBOARD_LOAD] - Dashboard cargado en 167ms
+2026-03-16 10:49:53 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 10:49:53 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 35ms
+2026-03-16 10:50:08 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:50:09 - [DASHBOARD_LOAD] - Dashboard cargado en 290ms
+2026-03-16 10:50:12 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 10:50:30 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 10:50:30 - [NAV_SUCCESS] - Profesores -> Modificación en 242ms
+2026-03-16 10:50:34 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 10:50:34 - [NAV_SUCCESS] - Profesores -> Baja en 107ms
+2026-03-16 10:51:38 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 10:51:38 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 40ms
+2026-03-16 10:51:56 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 10:51:57 - [DASHBOARD_LOAD] - Dashboard cargado en 218ms
+2026-03-16 10:51:59 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 10:52:01 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 10:52:01 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 29ms
+2026-03-16 11:00:12 - [LOGIN_FAIL] - User: prueba
+2026-03-16 11:00:17 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:00:17 - [DASHBOARD_LOAD] - Dashboard cargado en 107ms
+2026-03-16 11:00:21 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 11:00:21 - [NAV_SUCCESS] - Profesores -> Alta en 66ms
+2026-03-16 11:00:37 - [INGRESAR_PROFESOR] - ID: xx | Latencia: 2ms
+2026-03-16 11:00:43 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:00:43 - [NAV_SUCCESS] - Profesores -> Modificación en 76ms
+2026-03-16 11:00:44 - [CARGA_TABLA] - Registros: 4 | Latencia: 3ms
+2026-03-16 11:00:51 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 11:00:51 - [NAV_SUCCESS] - Profesores -> Alta en 34ms
+2026-03-16 11:03:10 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Alta
+2026-03-16 11:03:10 - [NAV_SUCCESS] - Estudiantes -> Alta en 90ms
+2026-03-16 11:03:14 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Baja
+2026-03-16 11:03:17 - [NAV_SUCCESS] - Estudiantes -> Baja en 2765ms
+2026-03-16 11:03:18 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:03:20 - [NAV_SUCCESS] - Matrícula -> Alta en 1813ms
+2026-03-16 11:03:21 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:03:21 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 21ms
+2026-03-16 11:03:38 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:03:39 - [DASHBOARD_LOAD] - Dashboard cargado en 119ms
+2026-03-16 11:03:42 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:03:42 - [NAV_SUCCESS] - Profesores -> Modificación en 67ms
+2026-03-16 11:03:44 - [BUSQUEDA_UPDATE] - Filtro:  | Latencia: 10ms
+2026-03-16 11:03:47 - [BUSQUEDA_UPDATE] - Filtro:  | Latencia: 2ms
+2026-03-16 11:03:47 - [BUSQUEDA_UPDATE] - Filtro:  | Latencia: 2ms
+2026-03-16 11:03:48 - [BUSQUEDA_UPDATE] - Filtro:  | Latencia: 1ms
+2026-03-16 11:03:59 - [BUSQUEDA_UPDATE] - Filtro:  | Latencia: 3ms
+2026-03-16 11:04:04 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:04:04 - [NAV_SUCCESS] - Profesores -> Modificación en 41ms
+2026-03-16 11:04:07 - [BUSQUEDA_UPDATE] - Filtro: xx | Latencia: 2ms
+2026-03-16 11:04:12 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:04:12 - [NAV_SUCCESS] - Profesores -> Modificación en 38ms
+2026-03-16 11:08:41 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:08:41 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 21ms
+2026-03-16 11:08:52 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:08:53 - [DASHBOARD_LOAD] - Dashboard cargado en 144ms
+2026-03-16 11:08:55 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:09:54 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:09:54 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 19ms
+2026-03-16 11:10:05 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:10:06 - [DASHBOARD_LOAD] - Dashboard cargado en 165ms
+2026-03-16 11:10:09 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:10:09 - [NAV_SUCCESS] - Profesores -> Modificación en 100ms
+2026-03-16 11:10:34 - [TABLA_SELECT] - ID: jperes@ejemplo.com | Latencia: 11ms
+2026-03-16 11:11:40 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:11:40 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 47ms
+2026-03-16 11:12:20 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:12:20 - [DASHBOARD_LOAD] - Dashboard cargado en 171ms
+2026-03-16 11:12:23 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:12:23 - [NAV_SUCCESS] - Profesores -> Modificación en 96ms
+2026-03-16 11:13:03 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:13:03 - [NAV_SUCCESS] - Profesores -> Baja en 61ms
+2026-03-16 11:13:55 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:13:55 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 59ms
+2026-03-16 11:15:01 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:15:01 - [DASHBOARD_LOAD] - Dashboard cargado en 141ms
+2026-03-16 11:15:05 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:16:00 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:16:00 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 15ms
+2026-03-16 11:16:10 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:16:10 - [DASHBOARD_LOAD] - Dashboard cargado en 142ms
+2026-03-16 11:16:13 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:16:13 - [NAV_SUCCESS] - Profesores -> Baja en 125ms
+2026-03-16 11:16:24 - [BAJA_SUCCESS] - ID: jperes@ejemplo.com | Latencia: 2ms
+2026-03-16 11:16:31 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:16:31 - [NAV_SUCCESS] - Profesores -> Baja en 61ms
+2026-03-16 11:16:50 - [BAJA_SUCCESS] - ID: jperes@ejemplo.com | Latencia: 1ms
+2026-03-16 11:16:54 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:16:55 - [NAV_SUCCESS] - Profesores -> Baja en 66ms
+2026-03-16 11:19:33 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:19:33 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 16ms
+2026-03-16 11:19:51 - [LOGIN_SUCCESS] - User: prueba | Latencia: 1ms
+2026-03-16 11:19:51 - [DASHBOARD_LOAD] - Dashboard cargado en 134ms
+2026-03-16 11:19:55 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:19:55 - [NAV_SUCCESS] - Profesores -> Baja en 95ms
+2026-03-16 11:20:04 - [BAJA_LOGICA_PROFESOR] - ID: jperes@ejemplo.com | Latencia: 2ms
+2026-03-16 11:20:12 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:20:13 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 20ms
+2026-03-16 11:21:38 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:21:38 - [DASHBOARD_LOAD] - Dashboard cargado en 125ms
+2026-03-16 11:21:41 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Alta
+2026-03-16 11:21:41 - [NAV_SUCCESS] - Estudiantes -> Alta en 83ms
+2026-03-16 11:21:53 - [ALTA_ESTUDIANTE] - Matrícula: 26037566 | Latencia: 1ms
+2026-03-16 11:22:02 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Modificación
+2026-03-16 11:22:03 - [NAV_SUCCESS] - Estudiantes -> Modificación en 1221ms
+2026-03-16 11:26:00 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:26:00 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 19ms
+2026-03-16 11:26:19 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:26:19 - [DASHBOARD_LOAD] - Dashboard cargado en 130ms
+2026-03-16 11:26:22 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Alta
+2026-03-16 11:26:22 - [NAV_SUCCESS] - Estudiantes -> Alta en 69ms
+2026-03-16 11:26:28 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Modificación
+2026-03-16 11:26:29 - [NAV_SUCCESS] - Estudiantes -> Modificación en 1585ms
+2026-03-16 11:26:57 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Modificación
+2026-03-16 11:29:12 - [LOGIN_SUCCESS] - User: prueba | Latencia: 1ms
+2026-03-16 11:29:39 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:30:30 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:30:47 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:32:21 - [LOGIN_SUCCESS] - User: prueba | Latencia: 1ms
+2026-03-16 11:32:22 - [DASHBOARD_LOAD] - Dashboard cargado en 119ms
+2026-03-16 11:32:26 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Alta
+2026-03-16 11:32:26 - [NAV_SUCCESS] - Estudiantes -> Alta en 79ms
+2026-03-16 11:32:31 - [ALTA_ESTUDIANTE] - Matrícula: 26036368 | Latencia: 2ms
+2026-03-16 11:32:35 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Modificación
+2026-03-16 11:32:36 - [NAV_SUCCESS] - Estudiantes -> Modificación en 101ms
+2026-03-16 11:32:51 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Baja
+2026-03-16 11:32:51 - [NAV_SUCCESS] - Estudiantes -> Baja en 92ms
+2026-03-16 11:34:33 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:34:33 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 19ms
+2026-03-16 11:34:46 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:34:46 - [DASHBOARD_LOAD] - Dashboard cargado en 141ms
+2026-03-16 11:34:49 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Baja
+2026-03-16 11:34:49 - [NAV_SUCCESS] - Estudiantes -> Baja en 100ms
+2026-03-16 11:34:58 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:34:58 - [NAV_SUCCESS] - Matrícula -> Alta en 34ms
+2026-03-16 11:35:11 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Modificación
+2026-03-16 11:35:11 - [NAV_SUCCESS] - Matrícula -> Modificación en 98ms
+2026-03-16 11:35:13 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Baja
+2026-03-16 11:35:13 - [NAV_SUCCESS] - Matrícula -> Baja en 69ms
+2026-03-16 11:35:16 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Alta
+2026-03-16 11:35:16 - [NAV_SUCCESS] - Materias -> Alta en 35ms
+2026-03-16 11:35:19 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Alta
+2026-03-16 11:35:19 - [NAV_SUCCESS] - Evaluaciones -> Alta en 55ms
+2026-03-16 11:35:35 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Baja
+2026-03-16 11:35:35 - [NAV_SUCCESS] - Estudiantes -> Baja en 50ms
+2026-03-16 11:36:45 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:36:45 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 39ms
+2026-03-16 11:36:56 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:36:56 - [DASHBOARD_LOAD] - Dashboard cargado en 141ms
+2026-03-16 11:36:59 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:36:59 - [NAV_SUCCESS] - Matrícula -> Alta en 71ms
+2026-03-16 11:37:17 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Modificación
+2026-03-16 11:37:17 - [NAV_SUCCESS] - Matrícula -> Modificación en 75ms
+2026-03-16 11:38:36 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:38:36 - [DASHBOARD_LOAD] - Dashboard cargado en 125ms
+2026-03-16 11:38:39 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:38:39 - [NAV_SUCCESS] - Matrícula -> Alta en 60ms
+2026-03-16 11:38:43 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Modificación
+2026-03-16 11:38:43 - [NAV_SUCCESS] - Matrícula -> Modificación en 130ms
+2026-03-16 11:38:50 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:38:50 - [NAV_SUCCESS] - Matrícula -> Alta en 47ms
+2026-03-16 11:39:02 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Baja
+2026-03-16 11:39:03 - [NAV_SUCCESS] - Matrícula -> Baja en 51ms
+2026-03-16 11:39:08 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:39:08 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 16ms
+2026-03-16 11:40:27 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:40:28 - [DASHBOARD_LOAD] - Dashboard cargado en 142ms
+2026-03-16 11:40:31 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Baja
+2026-03-16 11:40:31 - [NAV_SUCCESS] - Matrícula -> Baja en 96ms
+2026-03-16 11:40:38 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Alta
+2026-03-16 11:40:38 - [NAV_SUCCESS] - Materias -> Alta en 40ms
+2026-03-16 11:41:40 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:41:40 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 35ms
+2026-03-16 11:41:53 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:41:53 - [DASHBOARD_LOAD] - Dashboard cargado en 110ms
+2026-03-16 11:41:58 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:41:58 - [NAV_SUCCESS] - Matrícula -> Alta en 68ms
+2026-03-16 11:42:01 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Alta
+2026-03-16 11:42:01 - [NAV_SUCCESS] - Materias -> Alta en 122ms
+2026-03-16 11:42:07 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Modificación
+2026-03-16 11:42:07 - [NAV_SUCCESS] - Materias -> Modificación en 77ms
+2026-03-16 11:43:16 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:43:16 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 23ms
+2026-03-16 11:43:29 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:43:30 - [DASHBOARD_LOAD] - Dashboard cargado en 127ms
+2026-03-16 11:43:32 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Modificación
+2026-03-16 11:43:33 - [NAV_SUCCESS] - Materias -> Modificación en 154ms
+2026-03-16 11:43:40 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Baja
+2026-03-16 11:43:40 - [NAV_SUCCESS] - Materias -> Baja en 71ms
+2026-03-16 11:44:14 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:44:14 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 49ms
+2026-03-16 11:45:01 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:45:01 - [DASHBOARD_LOAD] - Dashboard cargado en 130ms
+2026-03-16 11:45:04 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Baja
+2026-03-16 11:45:04 - [NAV_SUCCESS] - Materias -> Baja en 114ms
+2026-03-16 11:45:09 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:45:09 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 37ms
+2026-03-16 11:45:30 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:45:31 - [DASHBOARD_LOAD] - Dashboard cargado en 152ms
+2026-03-16 11:45:33 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Alta
+2026-03-16 11:45:33 - [NAV_SUCCESS] - Evaluaciones -> Alta en 45ms
+2026-03-16 11:47:00 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:47:00 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 21ms
+2026-03-16 11:47:15 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:47:15 - [DASHBOARD_LOAD] - Dashboard cargado en 118ms
+2026-03-16 11:47:19 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Alta
+2026-03-16 11:47:19 - [NAV_SUCCESS] - Evaluaciones -> Alta en 74ms
+2026-03-16 11:47:25 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:47:25 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 17ms
+2026-03-16 11:49:22 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:49:22 - [DASHBOARD_LOAD] - Dashboard cargado en 137ms
+2026-03-16 11:49:26 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Baja
+2026-03-16 11:49:26 - [NAV_SUCCESS] - Evaluaciones -> Baja en 87ms
+2026-03-16 11:49:31 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Modificación
+2026-03-16 11:49:31 - [NAV_SUCCESS] - Evaluaciones -> Modificación en 103ms
+2026-03-16 11:49:33 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:49:33 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 31ms
+2026-03-16 11:52:16 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 11:52:16 - [DASHBOARD_LOAD] - Dashboard cargado en 112ms
+2026-03-16 11:52:19 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Modificación
+2026-03-16 11:52:19 - [NAV_SUCCESS] - Evaluaciones -> Modificación en 128ms
+2026-03-16 11:52:25 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Alta
+2026-03-16 11:52:25 - [NAV_SUCCESS] - Evaluaciones -> Alta en 46ms
+2026-03-16 11:52:28 - [NAV_ATTEMPT] - Modulo: Evaluaciones | Accion: Baja
+2026-03-16 11:52:28 - [NAV_SUCCESS] - Evaluaciones -> Baja en 63ms
+2026-03-16 11:52:31 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Baja
+2026-03-16 11:52:31 - [NAV_SUCCESS] - Materias -> Baja en 46ms
+2026-03-16 11:52:34 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Modificación
+2026-03-16 11:52:34 - [NAV_SUCCESS] - Materias -> Modificación en 59ms
+2026-03-16 11:52:37 - [NAV_ATTEMPT] - Modulo: Materias | Accion: Alta
+2026-03-16 11:52:37 - [NAV_SUCCESS] - Materias -> Alta en 57ms
+2026-03-16 11:52:40 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 11:52:40 - [NAV_SUCCESS] - Matrícula -> Alta en 42ms
+2026-03-16 11:52:42 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Modificación
+2026-03-16 11:52:42 - [NAV_SUCCESS] - Matrícula -> Modificación en 49ms
+2026-03-16 11:52:45 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Baja
+2026-03-16 11:52:45 - [NAV_SUCCESS] - Matrícula -> Baja en 53ms
+2026-03-16 11:52:48 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Alta
+2026-03-16 11:52:48 - [NAV_SUCCESS] - Estudiantes -> Alta en 45ms
+2026-03-16 11:52:51 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Modificación
+2026-03-16 11:52:51 - [NAV_SUCCESS] - Estudiantes -> Modificación en 56ms
+2026-03-16 11:52:53 - [NAV_ATTEMPT] - Modulo: Estudiantes | Accion: Baja
+2026-03-16 11:52:53 - [NAV_SUCCESS] - Estudiantes -> Baja en 56ms
+2026-03-16 11:52:55 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 11:52:55 - [NAV_SUCCESS] - Profesores -> Alta en 40ms
+2026-03-16 11:52:57 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Modificación
+2026-03-16 11:52:57 - [NAV_SUCCESS] - Profesores -> Modificación en 49ms
+2026-03-16 11:52:59 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Baja
+2026-03-16 11:52:59 - [NAV_SUCCESS] - Profesores -> Baja en 43ms
+2026-03-16 11:53:01 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 11:53:01 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 13ms
+2026-03-16 12:03:17 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 12:04:29 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 12:08:46 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 12:08:47 - [DASHBOARD_LOAD] - Dashboard cargado en 185ms
+2026-03-16 12:08:50 - [NAV_ATTEMPT] - Modulo: Profesores | Accion: Alta
+2026-03-16 12:08:50 - [NAV_SUCCESS] - Profesores -> Alta en 44ms
+2026-03-16 12:08:52 - [NAV_ATTEMPT] - Modulo: Matrícula | Accion: Alta
+2026-03-16 12:08:53 - [NAV_SUCCESS] - Matrícula -> Alta en 76ms
+2026-03-16 12:08:54 - [LOGOUT] - Iniciando cierre de sistema...
+2026-03-16 12:08:54 - [SYSTEM_SHUTDOWN] - Sesión terminada. Latencia: 25ms
+2026-03-16 12:41:01 - [LOGIN_SUCCESS] - User: prueba | Latencia: 0ms
+2026-03-16 12:41:01 - [DASHBOARD_LOAD] - Sesión activa. Latencia de carga: 106ms
+2026-03-16 12:41:05 - [NAV_SUCCESS] - Profesores -> Modificación
+2026-03-16 12:41:11 - [NAV_SUCCESS] - Estudiantes -> Modificación
+2026-03-16 12:41:17 - [NAV_SUCCESS] - Matrícula -> Modificación
+2026-03-16 12:41:27 - [BUSCAR_MATRICULA] - ID:  | Latencia: 1ms
+2026-03-16 12:41:34 - [NAV_SUCCESS] - Materias -> Modificación
+2026-03-16 12:41:40 - [NAV_SUCCESS] - Evaluaciones -> Modificación
+2026-03-16 12:41:44 - [LOGOUT] - Cierre de sesión manual.
+2026-03-16 12:41:45 - [SYSTEM_SHUTDOWN] - Latencia de salida: 21ms
